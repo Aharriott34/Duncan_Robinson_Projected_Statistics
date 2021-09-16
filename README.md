@@ -34,7 +34,7 @@ Visualizations:
 ![Top 5 Shooters Violinplot](https://user-images.githubusercontent.com/78121835/133534652-bd9bc671-2737-4b38-83b1-135f9d778acc.png)
 - Now getting into Duncan Robinson, this histogram displays how many three point shots he can make in a season. Duncan has not played a full 82 game season yet due to the COVID-19 shortening two out of his three seasons. That being said, if he plays a full 82 game season, a sample size was created to show how many threes he will make with his three point percentage slightly increased. A size of 612 threes attempted, 264 made, with a 42.9% probability of him making the shot.
 ![Duncan Robinson Histogram](https://user-images.githubusercontent.com/78121835/133535304-773f0322-5920-4c72-bf44-f46a5a7245ef.png)
-
-
-
-
+- With the histogram created, the next 5 seasons can be projected. Duncan did not get much playing time in his first year, hence a low amount of shots made. 
+![Duncan Robinson Season Projection](https://user-images.githubusercontent.com/78121835/133535481-98851ae6-034c-4c9d-ac78-ee309622b349.png)
+- Now with the next 5 seasons projected, there can be a forecast of the total amount of three pointers made for the first 8 seasons. The forecast can now be compared against the top 5 players in their first 8 seasons.
+![Duncan vs Top 5](https://user-images.githubusercontent.com/78121835/133535618-b2869a79-9ef0-4c45-92de-f0c7c0ef52e0.png)
