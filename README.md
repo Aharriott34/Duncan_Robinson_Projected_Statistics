@@ -17,6 +17,8 @@ Python packages used for analyzation:
 - Scipy.stats
 - Random
 - Collections.abc
+
+
 Python packages for visualization:
 
 - Matplotlib
@@ -28,6 +30,8 @@ Visualizations:
 ![Top 5 Shooters Total](https://user-images.githubusercontent.com/78121835/133533229-a9fa6070-59a1-42e2-a0df-96a14d7cd29b.png)
 - A boxplot was created to show the distribution for each of the shooters for their first eight seasons. Stephen Curry had the highest IQR and median out of the five, and Kyle Korver was the only player that had an outlier.
 ![Top 5 Shooters Boxplot](https://user-images.githubusercontent.com/78121835/133533554-cfeba905-0e4f-4053-a808-769669a9a641.png)
-- A violinplot was then made to find the full distribution for the players.
+- A violinplot was then made to find the full distribution for the players. All players have a unimodal(bell-shaped) curved however, some varied in skew. The violinplot also displays how Stephen Curr'y's quartiles strech out to.
+![Top 5 Shooters Violinplot](https://user-images.githubusercontent.com/78121835/133534652-bd9bc671-2737-4b38-83b1-135f9d778acc.png)
+
 
 
