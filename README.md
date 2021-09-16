@@ -32,6 +32,9 @@ Visualizations:
 ![Top 5 Shooters Boxplot](https://user-images.githubusercontent.com/78121835/133533554-cfeba905-0e4f-4053-a808-769669a9a641.png)
 - A violinplot was then made to find the full distribution for the players. All players have a unimodal(bell-shaped) curved however, some varied in skew. The violinplot also displays how Stephen Curr'y's quartiles strech out to.
 ![Top 5 Shooters Violinplot](https://user-images.githubusercontent.com/78121835/133534652-bd9bc671-2737-4b38-83b1-135f9d778acc.png)
+- Now getting into Duncan Robinson, this histogram displays how many three point shots he can make in a season. Duncan has not played a full 82 game season yet due to the COVID-19 shortening two out of his three seasons. That being said, if he plays a full 82 game season, a sample size was created to show how many threes he will make with his three point percentage slightly increased. A size of 612 threes attempted, 264 made, with a 42.9% probability of him making the shot.
+![Duncan Robinson Histogram](https://user-images.githubusercontent.com/78121835/133535304-773f0322-5920-4c72-bf44-f46a5a7245ef.png)
+
 
 
 
