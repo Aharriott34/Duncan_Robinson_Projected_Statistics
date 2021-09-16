@@ -28,7 +28,7 @@ Python packages for visualization:
 
 Visualizations:
 - This first chart shows the top five NBA players that have made the most amount of three point shots. Out of the five, Stephen Curry and James Harden are the only players currently playing in the NBA. Ray Allen played from 1996-2014, Reggie Miller played from 1987-2004, and Kyle Korver played from 2003-2019.
-![Top 5 Shooters Total](https://user-images.githubusercontent.com/78121835/133533229-a9fa6070-59a1-42e2-a0df-96a14d7cd29b.png)
+![Top 5 Total](https://user-images.githubusercontent.com/78121835/133536345-d8dbccb5-f532-4b45-a811-ce0abaefe4fe.png)
 - A boxplot was created to show the distribution for each of the shooters for their first eight seasons. Stephen Curry had the highest IQR and median out of the five, and Kyle Korver was the only player that had an outlier.
 ![Top 5 Shooters Boxplot](https://user-images.githubusercontent.com/78121835/133533554-cfeba905-0e4f-4053-a808-769669a9a641.png)
 - A violinplot was then made to find the full distribution for the players. All players have a unimodal(bell-shaped) curved however, some varied in skew. The violinplot also displays how far Stephen Curr'y's quartiles strech out.
