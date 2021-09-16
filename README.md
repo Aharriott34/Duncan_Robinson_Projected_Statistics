@@ -40,3 +40,8 @@ Visualizations:
 - Now with the next 5 seasons projected, there can be a forecast of the total amount of three pointers made for the first 8 seasons. The forecast can now be compared against the top 5 players in their first 8 seasons.
 ![Duncan vs Top 5](https://user-images.githubusercontent.com/78121835/133536919-6a611f0d-f77c-4385-99d3-5ea923040120.png)
 
+
+Power BI:
+- A Power BI dashboard was created to visualize Duncan's offensive stastics for his first three years playing. It can filter out his stats by opponents, if he played at home or away, and if the Miami Heat won or lost the game. The dashboard file is available above.
+<img width="614" alt="Power BI Dashboard" src="https://user-images.githubusercontent.com/78121835/133543212-08f6f3b9-3def-493d-a63e-36d6a8a458bd.png">
+
