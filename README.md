@@ -10,8 +10,6 @@ Built With:
 - Python 3
 - Power BI
 
-Prerequisites:
-
 Python packages used for analyzation:
 
 - Numpy
