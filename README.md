@@ -6,7 +6,7 @@ Duncan Robinson is a current NBA player that plays for the Miami Heat. He is cuu
 
 Built With:
 
-- PostgreSQL
+- PostgreSQL/pgAdmin4/Postbird
 - Python 3
 - Power BI
 
