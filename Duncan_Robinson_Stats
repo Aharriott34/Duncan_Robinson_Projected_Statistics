@@ -1,0 +1,160 @@
+110,3,New York Knicks,home,yes,win,33,0,7,0,0,5,0,4,4,1,4,-12
+112,3,Utah Jazz,away,yes,loss,28,3,6,0.5,2,4,0.5,0,0,,8,-20
+7,1,Detroit Pistons,home,no,loss,13,1,2,0.5,1,2,0.5,1,2,0.5,4,1
+111,3,Houston Rockets,away,yes,win,27,5,11,0.455,5,11,0.455,0,0,,15,14
+51,2,Indiana Pacers,away,yes,win,29,5,12,0.417,4,11,0.364,3,4,0.75,17,14
+15,1,Brooklyn Nets,home,no,loss,36,5,12,0.417,3,9,0.333,2,3,0.667,15,-10
+131,3,Charlotte Hornets,away,yes,loss,28,7,10,0.7,6,9,0.667,0,0,,20,10
+18,2,Minnesota Timberwolves,away,no,loss,23,8,12,0.667,4,7,0.571,1,1,1,21,-8
+132,3,New York Knicks,away,yes,win,32,4,10,0.4,4,9,0.444,2,2,1,14,26
+2,1,Indiana Pacers,home,no,loss,5,0,0,,0,0,,0,0,,0,4
+3,1,Brooklyn Nets,away,no,win,1,0,0,,0,0,,0,0,,0,-2
+23,2,Phoenix Suns,away,yes,win,27,1,5,0.2,1,4,0.25,3,3,1,6,29
+113,3,Golden State Warriors,away,yes,loss,40,5,12,0.417,3,10,0.3,0,0,,13,-13
+114,3,Sacramento Kings,away,yes,win,34,7,13,0.538,5,11,0.455,1,1,1,20,11
+115,3,Los Angeles Lakers,away,yes,win,33,3,8,0.375,1,5,0.2,4,6,0.667,11,0
+116,3,Oklahoma City Thunder,away,yes,win,37,8,15,0.533,6,13,0.462,0,0,,22,8
+117,3,Toronto Raptors,home,yes,win,39,6,11,0.545,4,9,0.444,1,1,1,17,11
+118,3,Utah Jazz,home,yes,win,35,5,9,0.556,4,7,0.571,1,1,1,15,5
+119,3,Atlanta Hawks,home,yes,win,35,2,9,0.222,1,8,0.125,0,0,,5,2
+53,2,New York Knicks,away,yes,loss,28,3,10,0.3,3,10,0.3,2,2,1,11,6
+120,3,Atlanta Hawks,home,yes,loss,31,5,11,0.455,4,9,0.444,0,0,,15,-8
+121,3,New Orleans Pelicans,away,yes,win,28,2,4,0.5,1,3,0.333,0,0,,5,-1
+122,3,Orlando Magic,home,yes,win,22,3,12,0.25,3,12,0.25,0,0,,9,-11
+123,3,Chicago Bulls,away,yes,win,29,5,9,0.556,5,8,0.625,0,0,,15,6
+124,3,Orlando Magic,away,yes,win,35,5,14,0.357,4,12,0.333,0,0,,14,-3
+29,2,Philadelphia 76ers,away,yes,loss,32,0,6,0,0,5,0,4,4,1,4,-26
+125,3,Cleveland Cavaliers,home,yes,win,26,5,9,0.556,4,8,0.5,0,0,,14,-2
+31,2,Houston Rockets,away,yes,loss,21,4,8,0.5,3,7,0.427,2,2,1,13,-17
+32,2,Golden State Warriors,home,yes,win,20,5,7,0.714,5,7,0.714,2,3,0.667,17,9
+33,2,Brooklyn Nets,away,yes,win,33,3,6,0.5,3,6,0.5,1,1,1,10,14
+126,3,Memphis Grizzlies,away,yes,loss,32,4,13,0.308,3,11,0.273,2,3,0.667,13,3
+127,3,Indiana Pacers,home,yes,loss,30,2,9,0.222,2,8,0.25,0,0,,6,-18
+128,3,Indiana Pacers,home,yes,loss,39,5,14,0.357,3,11,0.273,0,0,,13,15
+129,3,Phoenix Suns,home,yes,loss,32,2,6,0.333,2,5,0.4,0,0,,6,-19
+133,3,Indiana Pacers,away,yes,win,33,7,12,0.583,6,11,0.545,0,0,,20,17
+134,3,Golden State Warriors,home,yes,win,37,8,15,0.533,4,11,0.364,1,1,1,21,14
+135,3,Cleveland Cavaliers,home,yes,win,29,6,9,0.667,6,9,0.667,0,0,,18,18
+42,2,Philadelphia 76ers,away,yes,win,38,5,11,0.455,3,9,0.333,2,2,1,15,-6
+136,3,Memphis Grizzlies,home,yes,loss,26,5,8,0.625,4,7,0.571,0,0,,14,0
+44,2,Utah Jazz,home,yes,win,20,1,3,0.333,1,3,0.333,2,2,1,5,-3
+137,3,Los Angeles Lakers,home,yes,win,26,3,5,0.6,3,5,0.6,2,2,1,11,3
+47,2,Washington Wizards,away,yes,loss,31,5,11,0.455,3,8,0.375,3,3,1,16,-13
+139,3,Phoenix Suns,away,yes,loss,29,5,12,0.417,4,10,0.4,1,1,1,15,-1
+140,3,Denver Nuggets,away,yes,loss,24,3,6,0.5,3,6,0.5,0,0,,9,-5
+141,3,Minnesota Timberwolves,away,yes,loss,33,4,9,0.444,3,8,0.375,0,0,,11,0
+142,3,Brooklyn Nets,home,yes,win,34,4,9,0.444,3,8,0.375,0,0,,11,-5
+143,3,Houston Rockets,home,yes,win,28,7,14,0.5,5,11,0.455,0,0,,19,35
+59,2,Los Angeles Clippers,home,yes,loss,34,5,8,0.625,5,8,0.625,1,1,1,16,20
+60,2,Orlando Magic,home,yes,win,33,7,11,0.636,6,9,0.667,1,1,1,21,25
+130,3,Portland Trail Blazers,home,yes,loss,26,4,6,0.667,4,6,0.667,0,0,,12,-6
+138,3,Portland Trail Blazers,away,yes,win,21,4,12,0.333,4,10,0.4,0,0,,12,2
+63,2,Philadelphia 76ers,home,yes,win,34,4,9,0.444,4,8,0.5,7,9,0.778,19,24
+64,2,Los Angeles Clippers,away,yes,loss,35,3,11,0.273,3,10,0.3,2,2,1,11,-7
+66,2,Portland Trail Blazers,away,yes,loss,38,6,15,0.4,6,15,0.4,1,1,1,19,-7
+69,2,Atlanta Hawks,away,yes,loss,33,4,12,0.333,1,8,0.125,1,1,1,10,9
+1,1,New York Knicks,home,no,win,10,1,3,0.333,1,3,0.333,0,0,,3,-2
+73,2,Dallas Mavericks,home,yes,win,36,8,11,0.727,6,9,0.667,2,2,1,24,26
+74,2,Brooklyn Nets,home,yes,win,28,3,7,0.429,2,6,0.333,2,2,1,10,4
+152,3,Minnesota Timberwolves,home,yes,win,17,2,4,0.5,2,4,0.5,0,0,,6,-15
+79,2,Charlotte Hornets,home,yes,loss,35,3,13,0.231,3,13,0.231,3,3,1,12,2
+153,3,Boston Celtics,away,yes,win,33,7,13,0.538,6,10,0.6,2,2,1,22,4
+10,1,Charlotte Hornets,home,no,win,1,0,0,,0,0,,0,0,,0,
+81,2,Boston Celtics,home,yes,win,29,6,12,0.5,5,11,0.455,4,4,1,21,13
+82,2,Milwaukee Bucks,away,yes,loss,33,7,11,0.636,5,9,0.556,2,2,1,21,-20
+83,2,Phoenix Suns,home,yes,loss,37,7,15,0.467,4,12,0.333,7,7,1,25,-12
+19,2,Atlanta Hawks,home,no,win,1,0,0,,0,0,,0,0,,0,1
+85,2,Oklahoma City Thunder,away,yes,loss,15,6,8,0.75,5,7,0.714,2,2,1,19,9
+5,1,Sacramento Kings,away,no,loss,5,1,1,1,0,0,,0,0,,2,-5
+13,1,New York Knicks,away,no,win,9,0,1,0,0,0,,0,0,,0,-11
+14,1,Philadelphia 76ers,home,no,win,11,2,2,1,0,0,,0,0,,4,-3
+58,2,Washington Wizards,home,yes,win,16,4,7,0.571,4,7,0.571,1,2,0.5,13,-5
+12,1,Dallas Mavericks,home,no,win,21,2,9,0.222,1,7,0.143,1,1,1,6,1
+28,2,Cleveland Cavaliers,home,yes,win,34,9,15,0.6,9,15,0.6,2,2,1,29,11
+87,3,Orlando Magic,away,yes,loss,30,4,8,0.5,3,6,0.5,3,3,1,14,-5
+144,3,San Antonio Spurs,away,yes,win,27,4,9,0.444,2,7,0.286,0,0,,10,8
+89,3,Milwaukee Bucks,home,yes,loss,24,1,4,0.25,1,4,0.25,1,1,1,4,-30
+90,3,Milwaukee Bucks,home,yes,win,24,2,4,0.5,2,4,0.5,3,3,1,9,4
+91,3,Dallas Mavericks,away,yes,loss,33,1,8,0.125,1,8,0.125,2,4,0.5,5,4
+145,3,Atlanta Hawks,away,yes,loss,32,5,13,0.385,2,10,0.2,1,1,1,13,5
+93,3,Boston Celtics,home,yes,loss,31,5,11,0.455,5,11,0.455,1,1,1,16,12
+94,3,Washington Wizards,away,yes,win,34,2,8,0.25,2,8,0.25,1,2,0.5,7,10
+146,3,Chicago Bulls,home,yes,win,37,8,17,0.471,7,15,0.467,0,1,0,23,16
+97,3,Detroit Pistons,home,yes,loss,35,6,10,0.6,5,8,0.625,5,5,1,22,-9
+147,3,Chicago Bulls,home,yes,loss,26,1,7,0.143,1,7,0.143,0,0,,3,4
+99,3,Toronto Raptors,away,yes,win,37,4,7,0.571,4,6,0.667,2,2,1,14,4
+148,3,San Antonio Spurs,home,yes,win,32,3,8,0.375,2,4,0.5,0,0,,8,-2
+101,3,Brooklyn Nets,away,yes,loss,41,6,15,0.4,3,11,0.273,3,3,1,18,-5
+150,3,Charlotte Hornets,away,yes,win,26,3,10,0.3,3,10,0.3,1,3,0.333,10,12
+151,3,Dallas Mavericks,home,yes,loss,37,6,14,0.429,4,11,0.364,3,3,1,19,-12
+154,3,Boston Celtics,away,yes,win,33,6,10,0.6,5,9,0.556,5,6,0.833,22,11
+106,3,Charlotte Hornets,home,yes,loss,28,5,8,0.625,4,7,0.571,2,3,0.667,16,2
+155,3,Philadelphia 76ers,home,yes,win,26,1,7,0.143,1,7,0.143,0,0,,3,7
+156,3,Milwaukee Bucks,away,yes,loss,30,6,15,0.4,5,12,0.417,0,0,,17,-4
+109,3,New York Knicks,away,yes,win,36,4,10,0.4,4,10,0.4,0,1,0,12,5
+157,3,Detroit Pistons,away,yes,win,19,3,5,0.6,2,4,0.5,0,0,,8,9
+4,1,Brooklyn Nets,home,no,loss,12,1,3,0.333,1,3,0.333,0,0,,3,-1
+8,1,Phoenix Suns,home,yes,loss,22,2,6,0.333,1,5,0.2,0,0,,5,-3
+11,1,Milwaukee Bucks,away,no,loss,6,1,2,0.5,0,1,0,0,0,,2,-6
+48,2,Toronto Raptors,home,yes,win,19,2,4,0.5,2,3,0.667,0,0,,6,2
+49,2,Orlando Magic,away,yes,loss,31,3,11,0.273,3,11,0.273,0,0,,9,-9
+52,2,Brooklyn Nets,away,yes,loss,27,3,7,0.429,2,6,0.333,0,0,,8,-10
+16,2,Memphis Grizzlies,home,no,win,23,1,5,0.2,1,5,0.2,0,0,,3,-3
+17,2,Milwaukee Bucks,away,no,win,23,3,6,0.5,3,5,0.6,0,0,,9,11
+20,2,Atlanta Hawks,away,yes,win,26,5,10,0.5,2,6,0.333,0,0,,12,-3
+21,2,Houston Rockets,home,yes,win,35,8,12,0.667,7,11,0.636,0,0,,23,20
+24,2,Los Angeles Lakers,away,yes,loss,24,1,7,0.143,1,6,0.167,0,0,,3,-9
+25,2,Detroit Pistons,home,yes,win,29,4,10,0.4,3,8,0.375,0,0,,11,0
+70,2,Cleveland Cavaliers,home,yes,win,32,7,12,0.583,5,10,0.5,0,0,,19,14
+71,2,Cleveland Cavaliers,away,yes,loss,37,5,14,0.357,5,11,0.455,0,0,,15,4
+72,2,Minnesota Timberwolves,home,yes,loss,26,3,6,0.5,3,6,0.5,0,0,,9,-9
+75,2,Milwaukee Bucks,home,yes,win,33,3,8,0.375,3,7,0.429,0,0,,9,6
+76,2,Orlando Magic,home,yes,win,36,9,12,0.75,9,12,0.75,0,0,,27,7
+77,2,New Orleans Pelicans,away,yes,loss,39,8,14,0.571,8,14,0.571,0,0,,24,15
+149,3,Cleveland Cavaliers,away,yes,win,21,7,10,0.7,6,9,0.667,0,0,,20,-3
+95,3,Philadelphia 76ers,away,yes,loss,45,8,18,0.444,6,14,0.429,4,5,0.8,26,14
+102,3,Brooklyn Nets,away,yes,loss,38,1,10,0.1,1,10,0.1,4,4,1,7,-12
+50,2,Portland Trail Blazers,home,yes,win,35,2,11,0.182,2,11,0.182,0,0,,6,0
+27,2,New Orleans Pelicans,home,yes,win,30,6,10,0.6,3,6,0.5,0,0,,15,4
+26,2,Cleveland Cavaliers,away,yes,win,26,4,8,0.5,3,7,0.429,0,0,,11,-12
+30,2,Charlotte Hornets,home,yes,win,22,2,6,0.333,2,6,0.333,0,0,,6,9
+34,2,Toronto Raptors,away,yes,win,27,8,11,0.727,6,9,0.667,0,0,,22,11
+35,2,Boston Celtics,away,yes,loss,29,4,8,0.5,2,6,0.333,0,0,,10,-4
+36,2,Washington Wizards,home,yes,win,41,2,9,0.222,2,7,0.286,0,0,,6,15
+37,2,Chicago Bulls,home,yes,win,21,3,9,0.333,3,8,0.375,0,0,,9,2
+38,2,Atlanta Hawks,home,yes,win,43,12,16,0.75,10,14,0.714,0,0,,34,26
+39,2,Los Angeles Lakers,home,yes,loss,36,3,8,0.375,3,7,0.429,0,0,,9,-1
+40,2,Dallas Mavericks,away,yes,win,36,3,10,0.3,3,10,0.3,0,0,,9,-6
+41,2,Memphis Grizzlies,away,yes,loss,23,4,6,0.667,4,6,0.667,0,0,,12,8
+43,2,New York Knicks,home,yes,win,22,6,10,0.6,6,10,0.6,0,0,,18,24
+45,2,Indiana Pacers,home,yes,win,28,6,11,0.545,6,10,0.6,0,0,,18,-6
+46,2,Philadelphia 76ers,home,yes,win,19,6,6,1,4,4,1,0,0,,16,16
+54,2,San Antonio Spurs,home,yes,win,39,4,10,0.4,3,9,0.333,0,0,,11,5
+55,2,Oklahoma City Thunder,away,yes,win,36,5,12,0.417,4,11,0.364,0,0,,14,10
+56,2,San Antonio Spurs,away,yes,loss,35,4,11,0.364,4,10,0.4,0,0,,12,16
+57,2,Sacramento Kings,home,yes,win,37,4,11,0.364,4,10,0.4,0,0,,12,4
+61,2,Boston Celtics,home,yes,loss,39,4,12,0.333,4,11,0.364,0,0,,12,4
+62,2,Orlando Magic,away,yes,win,22,3,7,0.429,3,7,0.429,0,0,,9,6
+65,2,Sacramento Kings,away,yes,loss,41,6,9,0.667,6,9,0.667,0,0,,18,-2
+67,2,Golden State Warriors,away,yes,win,37,6,14,0.429,5,13,0.385,0,0,,17,22
+68,2,Utah Jazz,away,yes,loss,30,6,13,0.462,6,13,0.462,0,0,,18,11
+22,2,Denver Nuggets,away,no,loss,11,1,6,0.167,0,4,0,0,0,,2,-3
+9,1,Brooklyn Nets,home,no,win,5,2,4,0.5,2,3,0.667,0,0,,6,2
+80,2,Toronto Raptors,home,yes,loss,22,1,5,0.2,1,4,0.25,0,0,,3,-1
+84,2,Indiana Pacers,home,yes,win,31,5,11,0.455,4,10,0.4,0,0,,14,24
+86,2,Indiana Pacers,away,yes,loss,13,0,3,0,0,3,0,0,0,,0,-5
+78,2,Washington Wizards,away,yes,win,39,8,12,0.667,7,11,0.636,0,0,,23,26
+88,3,New Orleans Pelicans,home,yes,win,32,8,14,0.571,7,13,0.538,0,0,,23,5
+92,3,Oklahoma City Thunder,home,yes,win,33,4,11,0.364,4,10,0.4,0,0,,12,21
+96,3,Philadelphia 76ers,away,yes,loss,33,9,14,0.643,4,8,0.5,0,0,,22,-19
+98,3,Detroit Pistons,home,yes,win,36,6,9,0.667,6,9,0.667,0,0,,18,8
+100,3,Toronto Raptors,away,yes,loss,34,4,8,0.5,3,6,0.5,0,0,,11,-18
+104,3,Los Angeles Clippers,home,yes,loss,32,2,8,0.25,2,5,0.4,0,0,,6,-8
+105,3,Sacramento Kings,home,yes,win,35,5,9,0.556,4,8,0.5,0,0,,14,6
+107,3,Washington Wizards,home,yes,loss,27,3,9,0.333,3,8,0.375,0,0,,9,3
+108,3,Washington Wizards,home,yes,win,26,2,9,0.222,2,9,0.222,0,0,,6,22
+6,1,Denver Nuggets,away,no,loss,2,0,1,0,0,0,,0,0,,0,2
+103,3,Denver Nuggets,home,yes,loss,36,3,11,0.273,2,10,0.2,0,0,,8,-17
+158,2,Chicago Bulls,away,yes,win,31,3,9,0.333,2,8,0.25,0,0,,8,-8
+159,2,Denver Nuggets,away,yes,win,34,5,9,0.556,3,7,0.429,4,4,1,17,28
+160,3,Boston Celtics,away,yes,win,34,7,3,0.538,6,10,0.6,2,2,1,22,4
