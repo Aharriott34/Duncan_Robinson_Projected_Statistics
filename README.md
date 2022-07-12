@@ -2,7 +2,7 @@
 
 Description:
 
-Duncan Robinson is a current NBA player that plays for the Miami Heat. He is cuurrently an elite three point shooters in the league, and recently resigned with the Miami Heat for five more seasons. A question was raised with his new contract, is he on track to crack the top five in three point shots made? This code and visualizations will answer that question, barring he has a heathy season, and there aren't any lockuts in the near future. All statistics were taken from basketball-reference.com, and nba.com.
+Duncan Robinson is a current NBA player that plays for the Miami Heat. He is currently an elite three point shooters in the league, and recently resigned with the Miami Heat for five more seasons. A question was raised with his new contract, is he on track to crack the top five in three point shots made? This code and visualizations will answer that question, barring he has a heathy season, and there aren't any lockuts in the near future. All statistics were taken from basketball-reference.com, and nba.com.
 
 Built With:
 
